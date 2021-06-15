@@ -1,7 +1,5 @@
 # API-ALL-END-POINTS
-
-
-# GET #
+#1.GET #
 
 <!DOCTYPE html>
 <html lang="en">
